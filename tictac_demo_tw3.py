@@ -194,5 +194,5 @@ while turn <= 9:
             ocheck()
             draw()
     except ValueError:
-        print("\nStop making mistakes! It's so borring.\n ")
+        print("\nStop making mistakes! It's so borring...\n ")
         continue
